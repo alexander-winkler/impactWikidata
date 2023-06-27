@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+bg.json
+moma.json
+staedel.json
